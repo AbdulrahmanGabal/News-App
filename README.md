@@ -1,16 +1,26 @@
-# news_app_ui_setup
+Simple Weather App
+A minimalistic Flutter application that fetches and displays real-time weather data based on the user's location. This app demonstrates the use of Flutter for API integration and UI design.
 
-A new Flutter project.
+Features
+. Get current weather data based on the user's location
+. Displays temperature, weather conditions, and humidity
+. Clean and simple user interface
+. Real-time weather updates
 
-## Getting Started
+Installation
+1 - Clone the repository:
+git clone https://github.com/AbdulrahmanGabal/News-App
+2 - Navigate to the project directory:
+cd News-App
+3 - Get the dependencies:
+flutter pub get
+4 - Run the app:
+flutter run
+Usage
+Allow location access to get weather data.
+View real-time weather updates for your location.
+Contributing
+Feel free to fork this repository and submit pull requests. For major changes, please open an issue first to discuss the change you would like to make.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+License
+This project is licensed under the MIT License
