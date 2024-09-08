@@ -1,12 +1,12 @@
-# Simple Weather App
+# News App
 
-A minimalistic Flutter application that fetches and displays real-time weather data based on the user's location. This app demonstrates the use of Flutter for API integration and UI design.
+A minimalistic Flutter application that fetches and displays the latest news articles from various sources. This app demonstrates the use of Flutter for API integration and UI design.
 
 ## Features
-- Get current weather data based on the user's location
-- Displays temperature, weather conditions, and humidity
+- Get the latest news articles from multiple sources
+- Displays article titles, descriptions, and publication dates
 - Clean and simple user interface
-- Real-time weather updates
+- Real-time news updates
 
 ## Installation
 
@@ -28,8 +28,8 @@ A minimalistic Flutter application that fetches and displays real-time weather d
     ```
 
 ## Usage
-- Allow location access to get weather data.
-- View real-time weather updates for your location.
+- View the latest news articles from various sources.
+- Explore different categories and headlines.
 
 ## Contributing
 Feel free to fork this repository and submit pull requests. For major changes, please open an issue first to discuss the change you would like to make.
